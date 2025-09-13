@@ -1,0 +1,6 @@
+
+.active-link {
+  color: blueviolet; /* Tailwind's sky-600 */
+  font-weight: 600;
+  border-bottom: 2px solid #0284c7;
+}
